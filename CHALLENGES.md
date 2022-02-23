@@ -41,3 +41,13 @@ Open up any basic artistic drawing tool (e.g. Microsoft Paint, Paintbrush) and c
 Once you've created a satisfactory test map, go ahead and save it to your `environments/` subdirectory and update your project code to allow for training across the newly designed map.
 
 After _at least (20)_ generations of training, save the final accuracy report (as produced by your terminal) as a screenshot – save the screenshotted custom map accuracy report to your project directory (ideally in the outermost level, adjacent to `project.py`).
+
+### OBJECTIVE 3: Understanding the Reinforcement Algorithm
+
+The core of our project is an algorithm called NEAT, which stands for Neuro-Evolution of Augmenting Topologies.
+
+In order to understand the relationship between our RL algorithm and our project as a whole, it behooves us to dive a little deeper as to what NEAT is actually doing. 
+
+Your task is to go online and research the NEAT algorithm while producing a small set of 1-3 slides (similar to our in-class research slide tutorial activities) that explain the NEAT algorithm in the context of reinforcement learning and artificial intelligence.
+
+Once you've created a satisfactory number of slides that explain the algorithm competently, go ahead and save your slides as a PDF and upload them to the project directory as a file called `Understanding_NEAT.pdf`. 
