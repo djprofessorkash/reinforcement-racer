@@ -1,3 +1,7 @@
 # ADDITIONAL MAPPING ENVIRONMENTS
 assets/environments/map04.png
 assets/environments/map05.png
+
+# GARBAGE
+.DS_Store
+*/.DS_Store
