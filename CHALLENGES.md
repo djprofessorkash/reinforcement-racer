@@ -51,3 +51,13 @@ In order to understand the relationship between our RL algorithm and our project
 Your task is to go online and research the NEAT algorithm while producing a small set of 1-3 slides (similar to our in-class research slide tutorial activities) that explain the NEAT algorithm in the context of reinforcement learning and artificial intelligence.
 
 Once you've created a satisfactory number of slides that explain the algorithm competently, go ahead and save your slides as a PDF and upload them to the project directory as a file called `Understanding_NEAT.pdf`. 
+
+# OBJECTIVE 4: Extending Your Knowledge of RL
+
+Remember our lecture in Advanced RL Systems? 
+
+Go back to it and look over the myriad of reinforcement learning algorithms at play. 
+
+Create a new file called `analysis.txt` and jot down some thoughts as to the effectiveness of the NEAT algorithm and what other reinforcement learning algorithms can be used to achieve similar effectiveness for games like racecar driving. 
+
+Be sure to keep in mind ideas such as policy optimization, agent-environment state data, and continuous-vs.-discrete state information. 
