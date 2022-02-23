@@ -102,6 +102,8 @@ def racecar_simulator(genomes, configurations):
                 agent.speed += 2
 
         # Check if RL Agent is alive and optimize rewarding schema
+        # TODO: Explain how the rewards are selected here – how is the 
+        #       rewarding schema related to the model's training fitness?
         still_alive = 0
         for iteration, agent in enumerate(agents):
             if agent.is_alive():
