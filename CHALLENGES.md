@@ -52,7 +52,7 @@ Your task is to go online and research the NEAT algorithm while producing a smal
 
 Once you've created a satisfactory number of slides that explain the algorithm competently, go ahead and save your slides as a PDF and upload them to the project directory as a file called `Understanding_NEAT.pdf`. 
 
-# OBJECTIVE 4: Extending Your Knowledge of RL
+### OBJECTIVE 4: Extending Your Knowledge of RL
 
 Remember our lecture in Advanced RL Systems? 
 
